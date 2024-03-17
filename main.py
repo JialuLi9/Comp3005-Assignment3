@@ -63,7 +63,7 @@ def delete_student(student_id):
 
 if __name__ == "__main__":
     
-    #get_all_students();
+    get_all_students();
     
     #add_student("Annie", "Chika", "756498@gamil.com", "2023-09-05");
     
@@ -71,5 +71,5 @@ if __name__ == "__main__":
     #update_student_email(4, "helloworld@gmail.com");
     
 
-    delete_student(1);
+    #delete_student(1);
     
