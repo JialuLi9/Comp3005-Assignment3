@@ -19,8 +19,11 @@ TESTING INSTRUCTIONS:
 (Please ensure that only one function is retained within the main method, as any query executed will modify the data. Subsequent executions of the same query may not work due to these changes.)
 
 a) getAllStudents(): retrieves and displays all records from the students table
+
 b) addStudent(first_name, last_name, email, enrollment_date): inserts a new student record into the students table with the infomation be passed in
+
 c) updateStudentEmail(student_id, new_email): updates the email address by specified student_id
+
 d) deleteStudent(student_id): deletes the record of the student by specified student_id
 
 
